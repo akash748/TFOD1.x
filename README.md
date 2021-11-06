@@ -71,5 +71,9 @@ Start the server
 
 ## Demo
 
-Insert gif or link to demo
+
+<p><img align = "centre"  src = "https://github.com/akash748/LinearRegGif/blob/main/HomeTFOD1.x.png" width = "800" height = "320"/></p>
+
+
+<p><img align = "centre"  src = "https://github.com/akash748/LinearRegGif/blob/main/ResultTFOD1.x.png" width = "800" height = "320"/></p>
 
